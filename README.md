@@ -25,4 +25,7 @@
 
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avaldinger&layout=compact&theme=algolia)](https://github.com/avaldinger/github-readme-stats)
+
+
 <!-- [![Adams's github stats](https://github-readme-stats.vercel.app/api?username=avaldinger)](https://github.com/avaldinger/github-readme-stats) -->
