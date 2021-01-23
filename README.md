@@ -5,6 +5,7 @@
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adam.valdinger@gmail.com)](mailto:adam.valdinger@gmail.com)
 <a href="https://www.linkedin.com/in/adam-valdinger/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue"/></a>
+<img src="https://media0.giphy.com/media/3oEdv0v3FyAXdWt9gA/giphy.gif" align="right"/>
 
 #### 📖 About:
 
